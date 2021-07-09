@@ -715,6 +715,7 @@ img{
     width: 265px;
     height: 265px;
     border-radius: 50%;
+    margin-right: var(--mb-0-75);
 }
 
 .portfolio__title{
